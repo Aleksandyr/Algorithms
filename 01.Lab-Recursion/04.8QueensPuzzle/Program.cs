@@ -64,12 +64,12 @@ namespace _04._8QueensPuzzle
 
         static bool CanPlaceQueen(int row, int col)
         {
-            bool canPlace =
+            bool ifFindCrossing =
                 verticals.Contains(col) ||
                 leftHorizontals.Contains(row - col) ||
                 rightHorizontals.Contains(row + col);
 
-            return !canPlace;
+            return !ifFindCrossing;
         }
 
         static void PrintSolution()

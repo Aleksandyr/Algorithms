@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.GenerateAllUniqueCombina
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.8QueensPuzzle", "04.8QueensPuzzle\04.8QueensPuzzle.csproj", "{61809B38-3FD6-4153-87DA-501DB4B25CF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AllPathsIntoMaze", "05.AllPathsIntoMaze\05.AllPathsIntoMaze.csproj", "{0431B5EE-5188-4D40-B87D-BC294B0A4268}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{61809B38-3FD6-4153-87DA-501DB4B25CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61809B38-3FD6-4153-87DA-501DB4B25CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61809B38-3FD6-4153-87DA-501DB4B25CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0431B5EE-5188-4D40-B87D-BC294B0A4268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0431B5EE-5188-4D40-B87D-BC294B0A4268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0431B5EE-5188-4D40-B87D-BC294B0A4268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0431B5EE-5188-4D40-B87D-BC294B0A4268}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
